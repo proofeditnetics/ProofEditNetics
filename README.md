@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+A focused professional with an interest in professional development and the application of new technologies to teaching, learning, as well as business process and management.
+English, IELTS/TOEFL instructor, and social sciences lecturer with 10 years' experience working in various educational settings. I have a genuine interest in students’ needs and aspirations and can adapt teaching materials and editing to the specific learning methods of every individual. My research and teaching interests include postcolonial and decolonial literature and identities, narrative performance, performative pragmatics, African literature, and Decolonial AI.
+
 <!--
 **proofeditnetics/proofeditnetics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
